@@ -10,18 +10,18 @@
 
     <groupId>net.md-5</groupId>
     <artifactId>specialsource-maven-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>maven-plugin</packaging>
     <name>SpecialSourceMP</name>
 
     <scm>
-        <connection>scm:git:git@github.com:agaricusb/SpecialSourceMP.git</connection>
-        <developerConnection>scm:git:git@github.com:agaricusb/SpecialSourceMP.git</developerConnection>
-        <url>git@github.com:agaricusb/SpecialSourceMP.git</url>
+        <connection>scm:git:git@github.com:MinecraftPortCentral/SpecialSourceMP.git</connection>
+        <developerConnection>scm:git:git@github.com:MinecraftPortCentral/SpecialSourceMP.git</developerConnection>
+        <url>git@github.com:MinecraftPortCentral/SpecialSourceMP.git</url>
     </scm>
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/agaricusb/SpecialSourceMP/issues</url>
+        <url>https://github.com/MinecraftPortCentral/SpecialSourceMP/issues</url>
     </issueManagement>
 
     <properties>
